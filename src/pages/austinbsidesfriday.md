@@ -19,6 +19,8 @@ Some cool things that were mentioned:
 Framework for making security challenges
 [Naumachia](https://github.com/nategraf/Naumachia)
 
+[Akeso](https://github.com/ameserole/Akeso)
+
 [Secure Coding/Config lab](https://github.com/ameserole/Akeso)
 
 [cybersecurity.tamu.edu](https://cybersecurity.tamu.edu)
@@ -38,7 +40,6 @@ from rapid 7
 
 #### Speaker:
 [David Ochell](https://bsidesaustin2018.sched.com/speaker/david_ochel.1xs47uxv?iframe=yes&w=100%&sidebar=no&bg=no)
-
 
 ## [ELK not just for logging 1:30pm](http://sched.co/DuGC)
 
