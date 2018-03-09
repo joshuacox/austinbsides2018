@@ -77,6 +77,10 @@ from rapid 7
 
 [garfieldminusgarfield.net](https://garfieldminusgarfield.net)
 
+## Shinobot
+
+[shinosec](https://shinosec.com/)
+
 ## [Closing ceremonies 4:30pm](http://sched.co/Dy3u)
 
 #### Speaker:
