@@ -46,18 +46,19 @@ from rapid 7
 #### Speaker:
 [Mark McLauchlin](https://bsidesaustin2018.sched.com/speaker/mark_mclauchlin.1xs47uxz?iframe=yes&w=100%&sidebar=no&bg=no)
 
-## [ 2:30pm]()
+## [Post mortem on deploying osquery 2:30pm](http://sched.co/DuFx)
 
 #### Speaker:
-[]()
+[Chris Burrows](https://bsidesaustin2018.sched.com/speaker/christian_burrows.1xs47utk?iframe=yes&w=100%&sidebar=no&bg=no)
+[Philip Mire](https://bsidesaustin2018.sched.com/speaker/philip_mire.1xs47uuo?iframe=yes&w=100%&sidebar=no&bg=no)
 
 ## [Metasploit minus Metasploit 3:30pm](http://sched.co/DuGL)
 
 #### Speakers:
-[James Barnett]()
-[Adam Cammack]()
+[James Barnett](https://bsidesaustin2018.sched.com/speaker/james_barnett.1xs47uwi?iframe=yes&w=100%&sidebar=no&bg=no)
+[Adam Cammack](https://bsidesaustin2018.sched.com/speaker/adam_cammack.1xs47ux1?iframe=yes&w=100%&sidebar=no&bg=no)
 
-## [ 4:30pm]()
+## [Closing ceremonies 4:30pm](http://sched.co/Dy3u)
 
 #### Speaker:
-[]()
+[Matt Pardo](https://bsidesaustin2018.sched.com/speaker/matt_pardo.1wvk2wzt?iframe=yes&w=100%&sidebar=no&bg=no)
