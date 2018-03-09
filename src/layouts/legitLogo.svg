@@ -29,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.7960391"
-     inkscape:cx="132.34029"
-     inkscape:cy="43.063796"
+     inkscape:cx="283.00747"
+     inkscape:cy="38.60955"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -61,7 +61,7 @@
      id="layer1"
      transform="translate(-90.841392,-57.107936)">
     <rect
-       style="opacity:1;fill:#b3b3b3;fill-opacity:1;stroke:#cccccc;stroke-width:1.87854159;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:660;stroke-opacity:1;paint-order:markers stroke fill"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#cccccc;stroke-width:1.87854159;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:660;stroke-opacity:1;paint-order:markers stroke fill"
        id="rect814"
        width="135.82436"
        height="47.140766"
@@ -69,7 +69,7 @@
        y="58.047207" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:50.79999924px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:50.79999924px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="91.790009"
        y="100.55597"
        id="text817"><tspan
@@ -77,8 +77,8 @@
          id="tspan815"
          x="91.790009"
          y="100.55597"
-         style="stroke-width:0.26458332px"> B<tspan
-   style="font-size:25.39999962px"
+         style="stroke-width:0.26458332px;fill:#b3b3b3;"> B<tspan
+   style="font-size:25.39999962px;fill:#b3b3b3;"
    id="tspan816">sides</tspan></tspan></text>
   </g>
 </svg>
