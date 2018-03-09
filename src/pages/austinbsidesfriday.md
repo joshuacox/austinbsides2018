@@ -52,6 +52,10 @@ from rapid 7
 [Chris Burrows](https://bsidesaustin2018.sched.com/speaker/christian_burrows.1xs47utk?iframe=yes&w=100%&sidebar=no&bg=no)
 [Philip Mire](https://bsidesaustin2018.sched.com/speaker/philip_mire.1xs47uuo?iframe=yes&w=100%&sidebar=no&bg=no)
 
+[osquery](https://osquery.io/)
+
+[kolide](https://www.kolide.co/)
+
 ## [Metasploit minus Metasploit 3:30pm](http://sched.co/DuGL)
 
 #### Speakers:

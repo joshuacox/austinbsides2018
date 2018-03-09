@@ -6,7 +6,7 @@
     "deploy": "gatsby build && gh-pages -d public -b master"
   },
   "dependencies": {
-    "gatsby": "^1.9.119",
+    "gatsby": "^1.9.231",
     "gatsby-link": "^1.6.28",
     "gatsby-plugin-glamor": "^1.6.9",
     "gatsby-plugin-sass": "^1.0.15",
