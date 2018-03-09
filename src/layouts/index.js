@@ -27,7 +27,7 @@ export default ({ children, data }) =>
               {data.site.siteMetadata.title}
             </g.H3>
           </Link>
-          <Link to={`/about/`}>
+          <Link className='toplinks' to={`/about/`}>
             <g.H3 marginBottom={rhythm(0)} display={`inline-block`}>
               About
             </g.H3>
