@@ -37,6 +37,7 @@ export default ({ children, data }) =>
       <div className='legitLogo'>
         <img src={legitLogo} height="242" alt="Legitblock" className='Thor-center' />
       </div>
+    <hr/>
       <div className='portal'>
         {children()}
       </div>

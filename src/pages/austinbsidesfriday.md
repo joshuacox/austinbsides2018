@@ -30,6 +30,7 @@ Framework for making security challenges
 ## [Smart Cards 10am](http://sched.co/DuGH)
 
 #### Speaker:
+
 [TimHonker](https://twitter.com/TimHonker)
 
 from rapid 7
@@ -39,17 +40,21 @@ from rapid 7
 ## [Privacy and the GDPR 11am](http://sched.co/DuG8)
 
 #### Speaker:
+
 [David Ochell](https://bsidesaustin2018.sched.com/speaker/david_ochel.1xs47uxv?iframe=yes&w=100%&sidebar=no&bg=no)
 
 ## [ELK not just for logging 1:30pm](http://sched.co/DuGC)
 
 #### Speaker:
+
 [Mark McLauchlin](https://bsidesaustin2018.sched.com/speaker/mark_mclauchlin.1xs47uxz?iframe=yes&w=100%&sidebar=no&bg=no)
 
 ## [Post mortem on deploying osquery 2:30pm](http://sched.co/DuFx)
 
 #### Speaker:
+
 [Chris Burrows](https://bsidesaustin2018.sched.com/speaker/christian_burrows.1xs47utk?iframe=yes&w=100%&sidebar=no&bg=no)
+
 [Philip Mire](https://bsidesaustin2018.sched.com/speaker/philip_mire.1xs47uuo?iframe=yes&w=100%&sidebar=no&bg=no)
 
 [osquery](https://osquery.io/)
@@ -59,7 +64,9 @@ from rapid 7
 ## [Metasploit minus Metasploit 3:30pm](http://sched.co/DuGL)
 
 #### Speakers:
+
 [James Barnett](https://bsidesaustin2018.sched.com/speaker/james_barnett.1xs47uwi?iframe=yes&w=100%&sidebar=no&bg=no)
+
 [Adam Cammack](https://bsidesaustin2018.sched.com/speaker/adam_cammack.1xs47ux1?iframe=yes&w=100%&sidebar=no&bg=no)
 
 ## [Closing ceremonies 4:30pm](http://sched.co/Dy3u)
