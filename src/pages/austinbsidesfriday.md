@@ -69,6 +69,11 @@ from rapid 7
 
 [Adam Cammack](https://bsidesaustin2018.sched.com/speaker/adam_cammack.1xs47ux1?iframe=yes&w=100%&sidebar=no&bg=no)
 
+[metasploit](https://metasploit.com)
+[blog.rapid7.com/2017/12/28/regifting-python-in-metasploit/](https://blog.rapid7.com/2017/12/28/regifting-python-in-metasploit/)
+[github.com/rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework)
+[garfieldminusgarfield.net](https://garfieldminusgarfield.net)
+
 ## [Closing ceremonies 4:30pm](http://sched.co/Dy3u)
 
 #### Speaker:
